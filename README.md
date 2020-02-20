@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://oleksandrkosovan.github.io/img/screen.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://github.com/OleksandrKosovan/oleksandrkosovan.github.io/blob/master/img/screen.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
